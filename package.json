@@ -1,0 +1,19 @@
+{
+  "name": "js_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --reporter verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
